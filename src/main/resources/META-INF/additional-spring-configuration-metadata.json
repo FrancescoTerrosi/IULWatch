@@ -1,0 +1,24 @@
+{
+	"properties": [
+		{
+  			"name": "iul.db1_dbip",
+  			"type": "java.lang.String",
+  			"description": "A description for 'iul.db1_dbip'"
+		},
+		{
+			"name": "iul.db1_dbname",
+			"type": "java.lang.String",
+			"description": "A description for 'iul.db1_dbip'"
+		},
+		{
+			"name": "iul.db1_dbuser",
+			"type": "java.lang.String",
+			"description": "A description for 'iul.db1_dbip'"
+		},
+		{
+			"name": "iul.db1_dbpassword",
+			"type": "java.lang.String",
+			"description": "A description for 'iul.db1_dbip'"
+		},
+	]
+}
